@@ -12,7 +12,7 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 URL for elasticbean stack running service can be found at 
 [/filteredimage?image_url=](http://udagram-env.eba-mbpgmkzp.eu-west-2.elasticbeanstalk.com/filteredimage?image_url=)
 
-i.e.: http://udagram-env.eba-mbpgmkzp.eu-west-2.elasticbeanstalk.com/?filteredimage=https://cdn.spacetelescope.org/archives/images/screen/potw2034a.jpg
+i.e.: http://udagram-env.eba-mbpgmkzp.eu-west-2.elasticbeanstalk.com/filteredimage?image_url=https://cdn.spacetelescope.org/archives/images/screen/potw2034a.jpg
 
 ## Tasks
 
