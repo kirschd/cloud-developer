@@ -10,6 +10,9 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 
 ## Tasks
 
+### DK:dev - Make a minor change here to test github
+Will add this change as a patch, create new branch off of master and then create a PR to merge changes onto master branch
+
 ### Setup Node Environment
 
 You'll need to create a new node server. Open a new terminal within the project directory and run:
